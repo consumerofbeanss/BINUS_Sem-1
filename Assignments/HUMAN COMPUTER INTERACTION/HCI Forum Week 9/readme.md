@@ -1,3 +1,3 @@
 # Name: Ostein Vittorio Vellim
 # Class: L1CC
-# sStd. ID: 2602206783
+# Std. ID: 2602206783
